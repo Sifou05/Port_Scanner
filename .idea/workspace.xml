@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee29492a-15e2-46e1-95ec-977f5c3e13c0" name="Changes" comment="">
+    <list default="true" id="ee29492a-15e2-46e1-95ec-977f5c3e13c0" name="Changes" comment="Main Program">
       <change afterPath="$PROJECT_DIR$/../.idea/Python Projects.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
@@ -28,13 +28,6 @@
       <change afterPath="$PROJECT_DIR$/../Exercises/download_folder/The Smartest RickRoll.mp4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercises/downloads/n/Funny Meme Review 32022 shorts.mp4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercises/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Port Scanner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Testing/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Testing/.idea/Testing.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Testing/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -50,6 +43,8 @@
       <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Port Scanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Port Scanner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +61,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sifou05"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sifou05/Port_Scanner.git",
+    "accountId": "e632f4b3-c36a-4a81-b36b-a8d936ba56a9"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -97,6 +104,27 @@
       <option name="presentableId" value="Default" />
       <updated>1752596024943</updated>
     </task>
+    <task id="LOCAL-00001" summary="Main Program">
+      <option name="closed" value="true" />
+      <created>1752599591281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752599591281</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main Program">
+      <option name="closed" value="true" />
+      <created>1752599861404</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752599861404</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main Program" />
   </component>
 </project>
