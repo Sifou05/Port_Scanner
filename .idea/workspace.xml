@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee29492a-15e2-46e1-95ec-977f5c3e13c0" name="Changes" comment="" />
+    <list default="true" id="ee29492a-15e2-46e1-95ec-977f5c3e13c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Python Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Car_stats/Car_Stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CtoK/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CtoK/.idea/CtoK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CtoK/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CtoK/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CtoK/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CtoK/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CtoK/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/The Evil Dhar Mann Clone.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/download_folder/The Smartest RickRoll.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/downloads/n/Funny Meme Review 32022 shorts.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Port Scanner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/.idea/Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/YTdownloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/le fishe (full version).3gpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -21,6 +77,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
